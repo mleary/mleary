@@ -6,11 +6,13 @@
   - :construction: Rebuilding my personal website with Quarto
   - :rocket: Exploring build and release tools (i.e. Github Actions / Azure DevOps pipelines)
   - :package: Having built several internal R packages, I would like to develop a small R package for release on CRAN
+  - :octocat: Increase my understanding of git (I mostly use it a high-level, but don't explore things like `reset` or `revert`)
 
 -------
 
 - :globe_with_meridians: Visit my personal website [here](https://www.mattleary.com)
 - :memo: See my resume [here](https://mattleary-resume.netlify.app/)
+- :cook: I keep collection of [recipes](https://mleary.github.io/cooking_recipes/index.html) I regularly use in an Rmarkdown.  It was really a way for me to explore using Github Actions for the first time to rebuild a website whenever I updated a csv file.
 
 <!--
 **mleary/mleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
