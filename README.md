@@ -11,7 +11,7 @@
 -------
 
 - :globe_with_meridians: Visit my personal website [here](https://www.mattleary.com)
-- :memo: See my resume [here](https://mattleary-resume.netlify.app/)
+- :memo: See my resume [here](https://mleary.github.io/resume/)
 - :cook: I keep collection of [recipes](https://mleary.github.io/cooking_recipes/index.html) I regularly use in an Rmarkdown.  It was really a way for me to explore using Github Actions for the first time to rebuild a website whenever I updated a csv file.
 - :tumbler_glass: I have started a Rmarkdwon website for my [home bar](https://mleary.github.io/learys-bar/index.html) to track my bourbon and cocktails I like. 
 
