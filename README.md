@@ -11,8 +11,6 @@
 
 - :globe_with_meridians: Visit my personal website [here](https://www.mattleary.com)
 - :memo: See my resume [here](https://mleary.github.io/resume/)
-- :cook: I keep collection of [recipes](h[ttps://mleary.github.io/cooking_recipes/index.html](https://mattleary.com/resources/resources-cooking.html)) 
-- :tumbler_glass: I have started a Rmarkdwon website for my [home bar](https://mleary.github.io/learys-bar/index.html) to track my bourbon and cocktails I like. 
 
 
 ------
