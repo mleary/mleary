@@ -1,7 +1,7 @@
 ### Hi there & welcome to my github profile 👋
 
 
-- :briefcase: For my day job, I’m currently managing a small team focuesd on piloting data solutions, experimentation & implementing data science projects for a specialty insurance carrier. 
+- :briefcase: For my day job, I’m currently focusedd on advancing Gen AI capabilities across a specialty insurance carrier.
 - :mortar_board: I’m generally intrigued by many topics at once, but I am currently focused on a few larger projects/topics:
   - :rocket: Exploring build and release tools (i.e. Github Actions / Azure DevOps pipelines)
   - :package: Having built several internal R packages, I would like to develop a small R package for release on CRAN
