@@ -1,11 +1,11 @@
-### Hi there & welcome to my github profile 👋
+### Hi there & welcome to my GitHub profile 👋
 
 
-- :briefcase: For my day job, I’m currently focusedd on advancing Gen AI capabilities across a specialty insurance carrier.
+- :briefcase: For my day job, I’m currently focused on advancing Gen AI capabilities across Markel, a specialty insurance carrier.
 - :mortar_board: I’m generally intrigued by many topics at once, but I am currently focused on a few larger projects/topics:
-  - :rocket: Exploring build and release tools (i.e. Github Actions / Azure DevOps pipelines)
-  - :package: Having built several internal R packages, I would like to develop a small R package for release on CRAN
-  - :octocat: Increase my understanding of git (I mostly use it a high-level, but don't explore things like `reset` or `revert`)
+  - :rocket: Building a personal AI assistant for my family.
+  - :package: Having built several internal R packages and Python modules for data science work, I am delving into more advanced package management
+  - :triangular_ruler: Measuring / Assessing the quality of LLM outputs to better align their output with work objectives.
 
 -------
 
@@ -14,16 +14,11 @@
 
 
 ------
-<!--
+
 [![mleary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleary)](https://github.com/mleary/github-readme-stats)
 test
--->
 
 <!--
-**mleary/mleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
