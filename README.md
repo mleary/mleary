@@ -13,16 +13,15 @@
   - :triangular_ruler: Measuring / Assessing the quality of LLM outputs in a objective and reproducible manner.
 
 -------
-
+### website & resume
 - :globe_with_meridians: Visit my personal website [here](https://www.mattleary.com)
 - :memo: See my resume [here](https://mleary.github.io/resume/)
 
 
 ------
+### badges and such
 
-[![GitHub Copilot](https://images.credly.com/size/110x110/images/d4d5745f-5900-4cc7-ace4-5a0ce87d1e25/image.png)](https://www.credly.com/badges/02f6833f-5ed7-4835-baf2-5c150e39c4e1/public_url)
-
-------
+[![GitHub Copilot](https://raw.githubusercontent.com/mleary/images/main/github-copilot.png)](https://www.credly.com/badges/f8f24f1c-d8ef-4430-9c19-384ca1bea13e/public_url)
 
 [![mleary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleary)](https://github.com/mleary/github-readme-stats)
 
