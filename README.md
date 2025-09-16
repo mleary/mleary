@@ -6,10 +6,8 @@
 
 - :mortar_board: I’m generally intrigued by many topics at once, but I am currently focused on a few larger projects/topics:
   
-  - :rocket: Building a [personal AI assistant](https://github.com/mleary/leary_ai) for my family.
-    
-  - :package: I've built multiple internal R packages and Python modules for data science work, and I'm exploring more advanced package management hosted remotely.
-    
+  - :rocket: Building a series of locally run MCP servers for a mix of fun and learning (https://github.com/mleary/local-mcp-servers).
+        
   - :triangular_ruler: Measuring / Assessing the quality of LLM outputs in a objective and reproducible manner.
 
 -------
