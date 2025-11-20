@@ -1,7 +1,7 @@
 ### Hi there & welcome to my GitHub profile 👋
 
 
-- :briefcase: For my day job, I’m a product manager for Posit PBC (formerly RStudio).  Before that I was a data scientist with a previous stint in PR/Communications.
+- :briefcase: For my day job, I’m a product manager for Posit PBC (formerly RStudio).  Before that I was a data scientist and Gen AI product owner in the insurance industry.  I also had a previous stint in PR/Communications.
 
 
 - :mortar_board: I’m generally intrigued by many topics at once, but I am currently focused on a few larger projects/topics:
